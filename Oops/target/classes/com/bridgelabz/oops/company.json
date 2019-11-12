@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Bridge labz solution in Mumbai",
+		"symbol": "Bridgelabz",
+		"balance": 4000,
+		"shares": 100,
+		"price": 80
+	},
+	{
+		"name": " TCS pvt Ltd",
+		"symbol": "TCS",
+		"balance": 5000,
+		"shares": 400,
+		"price": 120
+	},
+	{
+		"name": " Tech Mahindra Pvt Ltd",
+		"symbol": "Mahindra",
+		"balance": 6000,
+		"shares": 451,
+		"price": 130
+	},
+	{
+		"name": "Infosys Softwares Pvt Ltd",
+		"symbol": "Infosys",
+		"balance": 10000,
+		"shares": 197,
+		"price": 150
+	},
+	{
+		"name": "Alka techologies Pvt Ltd",
+		"symbol": "Alka",
+		"balance": 3000,
+		"shares": 196,
+		"price": 150
+	}
+]

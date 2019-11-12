@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="com.bridglabz.model.Student" table="HibStudent">
+
+		<id name="id" column="sid" />
+		<property name="name" column="sname" length="10" />
+
+		<property name="cid" column="cid" insert="false" />
+
+	</class>
+</hibernate-mapping>

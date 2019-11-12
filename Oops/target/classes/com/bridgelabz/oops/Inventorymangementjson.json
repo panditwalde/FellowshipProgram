@@ -1,0 +1,27 @@
+{
+	"rice 1": {
+		"name": "Basmati",
+		"weight": 20,
+		"price": 200
+	},
+	"rice 2": {
+		"name": "Rajma",
+		"weight": 10,
+		"price": 100
+	},
+	"rice 3": {
+		"name": "Indrayani",
+		"weight": 10,
+		"price": 50
+	},
+	"wheat 1": {
+		"name": "Shresth",
+		"weight": 10,
+		"price": 50
+	},
+	"wheat 2": {
+		"name": "PBW",
+		"weight": 10,
+		"price": 50
+	}
+}

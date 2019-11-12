@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+<class name="com.bridglabz.model.Course" table="HibCourse">
+  <id name="id" column="cid"  />
+  <property name="name" column="cname" length="10"/>
+
+  <set name="students" cascade="all" >
+
+   <key column="cid" />
+   <one-to-many class="org.onetomany.Student" />
+
+  </set>
+
+  </class>
+</hibernate-mapping>

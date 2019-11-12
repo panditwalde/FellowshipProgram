@@ -1,0 +1,25 @@
+[ {
+  "firstName" : "sourbh",
+  "lastName" : "magdum",
+  "address" : "Kolhapur",
+  "city" : "kolhapur",
+  "state" : "maharastra",
+  "zip" : "412456",
+  "phone" : "98452541"
+}, {
+  "firstName" : "pandit",
+  "lastName" : "walde",
+  "address" : "phulambri",
+  "city" : "aurangabad",
+  "state" : "maharastra",
+  "zip" : "431134",
+  "phone" : "123456"
+}, {
+  "firstName" : "ajay",
+  "lastName" : "lodale",
+  "address" : "sillod",
+  "city" : "aurangabad",
+  "state" : "maha",
+  "zip" : "421012",
+  "phone" : "123456"
+} ]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="com.bridgelabz.hibernate.Student" table="Student">
+
+		<id name="id" column="id" />
+
+		<property name="name" column="name" />
+		<property name="address" column="address" />
+
+		<property name="phone" column="moible" />
+
+		<property name="age" column="age" />
+
+		<property name="course" column="course" />
+
+
+
+
+
+
+
+
+
+
+	</class>
+</hibernate-mapping>
